@@ -1,8 +1,6 @@
 # Sentiment-Analysis
 # Customer Sentiment Analysis using Word Cloud
 
-![Project Banner](images/banner.png)
-
 ## Project Overview
 A simple NLP project that analyzes customer reviews using Python and TextBlob. Reviews are classified as Positive, Negative, or Neutral, and a Word Cloud is generated to identify the most common words in negative reviews.
 
