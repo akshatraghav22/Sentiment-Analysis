@@ -8,7 +8,7 @@ A simple NLP project that analyzes customer reviews using Python and TextBlob. R
 
 ## 📊 Sentiment Distribution
 
-![Sentiment Pie Chart](images/sentiment_pie_chart.png)
+![Sentiment Pie Chart](sentiment_pie_chart.png)
 
 This chart shows the overall distribution of customer sentiments.
 
@@ -16,7 +16,7 @@ This chart shows the overall distribution of customer sentiments.
 
 ## ☁️ Negative Review Word Cloud
 
-![Word Cloud](images/negative_wordcloud.png)
+![Word Cloud](negative_wordcloud.png)
 
 The word cloud highlights the most frequently used words in negative customer reviews, making it easier to identify common complaints.
 
